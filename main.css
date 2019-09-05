@@ -5,3 +5,8 @@ img {
 h1:hover, :focus{
 text-decoration: underline;
 }
+
+#title:hover, 
+#title:focus {
+text-decoration: underline;
+}
