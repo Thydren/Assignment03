@@ -1,3 +1,7 @@
 img {
     max-width: 30em;
 }
+
+h1:hover, :focus{
+text-decoration: underline;
+}
